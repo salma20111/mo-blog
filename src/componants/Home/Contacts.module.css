@@ -1,0 +1,16 @@
+.welcome {
+    color: teal;
+    padding: 20px;
+}
+
+.title {
+    color: teal;
+    text-transform: capitalize;
+}
+
+.info {
+    padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}

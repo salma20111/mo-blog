@@ -1,0 +1,16 @@
+.welcome {
+  color: brown;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.title {
+  color: tomato;
+  font-size: 45px;
+}
+
+.welcome p {
+  color: #777;
+  text-transform: capitalize;
+}
