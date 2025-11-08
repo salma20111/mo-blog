@@ -1,0 +1,9 @@
+.mom {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    margin: 20px auto ;
+    flex-wrap: wrap;
+}
