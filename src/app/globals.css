@@ -34,4 +34,20 @@ a {
 .main {
   position: relative; 
   top: 50px;
+  overflow: auto;
+  height: calc(100vh - 50px);
+  background-color: var(--color-one);
+  padding: 20px;
+}
+.link{
+  background-color: var(--color-four);
+  color: var(--color-one);
+  padding: 10px 15px;
+  border-radius: 5px;
+  display: inline-block;
+  transition: 0.3s;
+}
+
+.link:hover{
+  background-color: var(--color-three);
 }
